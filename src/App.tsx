@@ -12,8 +12,8 @@ export default function App() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://picsum.photos/seed/architecture/1920/1080"
-          alt="Modern Architecture"
+          src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2070&auto=format&fit=crop"
+          alt="Modern Architecture at Dusk"
           className="h-full w-full object-cover opacity-60"
           referrerPolicy="no-referrer"
         />
